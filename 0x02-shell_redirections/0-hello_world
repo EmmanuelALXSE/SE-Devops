@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 printf "Hello, World\n"
+=======
+printf "Hello, World\n
+>>>>>>> cf4d197cc8666a53b7a37ca61c56356d7ba9ade3
